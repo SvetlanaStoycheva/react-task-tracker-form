@@ -1,6 +1,6 @@
 ## React task tracker form
 
-#### made with Brad Traversy's tutorial React JS Crash Course 2021
+#### [made with Brad Traversy's tutorial React JS Crash Course 2021](https://www.youtube.com/watch?v=w7ejDZ8SWv8&t=860s)
 
 - add/delete functionality
 - toggle add/close button
